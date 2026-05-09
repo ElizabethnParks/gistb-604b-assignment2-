@@ -56,14 +56,14 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
     │   ├── performing_spatial_queries_PARKS.qgz
     │   └── calculating_line_lengths_and_statistics_PARKS.qgz
     ├── outputs/
-    ├── making_a_map_PARKS.png
-    ├── working_with_projections_PARKS.png
-    ├── working_with_attributes_PARKS.png
-    ├── importing_spreadsheets_csv_PARKS.png
-    ├── basic_vector_styling_PARKS.png
-    ├── basic_raster_styling_analysis_PARKS.png
-    ├── performing_table_joins_PARKS.png
-    ├── performing_spatial_joins_PARKS.png
-    ├── performing_spatial_queries_PARKS.png
-    └── calculating_line_lengths_and_statistics_PARKS.png
+        ├── making_a_map_PARKS.png
+        ├── working_with_projections_PARKS.png
+        ├── working_with_attributes_PARKS.png
+        ├── importing_spreadsheets_csv_PARKS.png
+        ├── basic_vector_styling_PARKS.png
+        ├── basic_raster_styling_analysis_PARKS.png
+        ├── performing_table_joins_PARKS.png
+        ├── performing_spatial_joins_PARKS.png
+        ├── performing_spatial_queries_PARKS.png
+        └── calculating_line_lengths_and_statistics_PARKS.png
 
