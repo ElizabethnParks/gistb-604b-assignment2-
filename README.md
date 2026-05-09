@@ -35,7 +35,7 @@
   - Calculating distance and statistics of lines
 
 ## How to View / Run
+All QGIS tutorials are linked inside the README. My completed tutorials are linked as .qgz files in the 'Projects' folder. My screenshots of the completed tutorials are linked as png. files in the 'Outputs' folder.
 
-
-Reflection
+## Reflection
   Completing these tutorials helped me understand concepts like the association between spatial features and attribute tables, how different layers interact, and the importance of the CRS settings. I also learned how to import data into QGIS and how joins link data to the layers. One of the more difficult concepts for me was the spatial queries tutorial. I had some difficulty reprojecting and performing the spatial queries on these reprojected layers. I anticipate using these skills in my archaeological work over the summer to map and locate the site and various trails that connect our sanctuary to the wider Arcadian region.
