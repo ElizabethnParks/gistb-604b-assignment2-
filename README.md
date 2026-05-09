@@ -27,7 +27,7 @@
   - (https://www.qgistutorials.com/en/docs/3/calculating_line_lengths.html)
 
 ## What I Did
-  -Working with coordinate reference systems (CRS)
+  - Working with coordinate reference systems (CRS)
   - Creating a map in Layout view
   - Importing various files into QGIS
   - Vector and Raster Styling
@@ -41,4 +41,27 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
   Completing these tutorials helped me understand concepts like the association between spatial features and attribute tables, how different layers interact, and the importance of the CRS settings. I also learned how to import data into QGIS and how joins link data to the layers. One of the more difficult concepts for me was the spatial queries tutorial. I had some difficulty reprojecting and performing the spatial queries on these reprojected layers. I anticipate using these skills in my archaeological work over the summer to map and locate the site and various trails that connect our sanctuary to the wider Arcadian region.
 
   ## Repository Structure
-  
+  /
+├── README.md
+├── projects/
+│   ├── making_a_map_PARKS.qgz
+│   ├── working_with_projections_PARKS.qgz
+│   ├── working_with_attributes_PARKS.qgz
+│   ├── importing_spreadsheets_csv_PARKS.qgz
+│   ├── basic_vector_styling_PARKS.qgz
+│   ├── basic_raster_styling_analysis_PARKS.qgz
+│   ├── performing_table_joins_PARKS.qgz
+│   ├── performing_spatial_joins_PARKS.qgz
+│   ├── performing_spatial_queries_PARKS.qgz
+│   └── calculating_line_lengths_and_statistics_PARKS.qgz
+└── outputs/
+    ├── making_a_map_PARKS.png
+    ├── working_with_projections_PARKS.png
+    ├── working_with_attributes_PARKS.png
+    ├── importing_spreadsheets_csv_PARKS.png
+    ├── basic_vector_styling_PARKS.png
+    ├── basic_raster_styling_analysis_PARKS.png
+    ├── performing_table_joins_PARKS.png
+    ├── performing_spatial_joins_PARKS.png
+    ├── performing_spatial_queries_PARKS.png
+    └── calculating_line_lengths_and_statistics_PARKS.png
