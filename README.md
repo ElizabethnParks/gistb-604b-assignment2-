@@ -55,7 +55,7 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
     │   ├── performing_spatial_joins_PARKS.qgz
     │   ├── performing_spatial_queries_PARKS.qgz
     │   └── calculating_line_lengths_and_statistics_PARKS.qgz
-    └── outputs/
+    ├── outputs/
     ├── making_a_map_PARKS.png
     ├── working_with_projections_PARKS.png
     ├── working_with_attributes_PARKS.png
@@ -67,28 +67,3 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
     ├── performing_spatial_queries_PARKS.png
     └── calculating_line_lengths_and_statistics_PARKS.png
 
-
-
-    
-    .
-    ├── README.md
-    ├── .devcontainer
-    │   ├── devcontainer.json
-    │   ├── Dockerfile
-    ├── data/
-    │   ├── neighborhood_samples.geojson
-    │   ├── temperature_readings.csv
-    │   └── weather_stations.csv
-    ├── notebooks/
-    │   ├── pandas/
-    │   ├── geopandas/
-    │   └── rasterio/
-    ├── src/
-    │   ├── pandas_basics.py
-    │   ├── geopandas_basics.py
-    │   └── download_real_data.py
-    ├── tests/
-    │   ├── test_pandas_basics.py
-    │   └── test_geopandas_basics.py
-    ├── pyproject.toml
-    └── uv.lock
