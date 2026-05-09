@@ -39,3 +39,6 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
 
 ## Reflection
   Completing these tutorials helped me understand concepts like the association between spatial features and attribute tables, how different layers interact, and the importance of the CRS settings. I also learned how to import data into QGIS and how joins link data to the layers. One of the more difficult concepts for me was the spatial queries tutorial. I had some difficulty reprojecting and performing the spatial queries on these reprojected layers. I anticipate using these skills in my archaeological work over the summer to map and locate the site and various trails that connect our sanctuary to the wider Arcadian region.
+
+  ## Repository Structure
+  
