@@ -43,19 +43,19 @@ All QGIS tutorials are linked inside the README. My completed tutorials are link
   ## Repository Structure
 
     .
-├── README.md
-├── projects/
-│   ├── making_a_map_PARKS.qgz
-│   ├── working_with_projections_PARKS.qgz
-│   ├── working_with_attributes_PARKS.qgz
-│   ├── importing_spreadsheets_csv_PARKS.qgz
-│   ├── basic_vector_styling_PARKS.qgz
-│   ├── basic_raster_styling_analysis_PARKS.qgz
-│   ├── performing_table_joins_PARKS.qgz
-│   ├── performing_spatial_joins_PARKS.qgz
-│   ├── performing_spatial_queries_PARKS.qgz
-│   └── calculating_line_lengths_and_statistics_PARKS.qgz
-└── outputs/
+    ├── README.md
+    ├── projects/
+    │   ├── making_a_map_PARKS.qgz
+    │   ├── working_with_projections_PARKS.qgz
+    │   ├── working_with_attributes_PARKS.qgz
+    │   ├── importing_spreadsheets_csv_PARKS.qgz
+    │   ├── basic_vector_styling_PARKS.qgz
+    │   ├── basic_raster_styling_analysis_PARKS.qgz
+    │   ├── performing_table_joins_PARKS.qgz
+    │   ├── performing_spatial_joins_PARKS.qgz
+    │   ├── performing_spatial_queries_PARKS.qgz
+    │   └── calculating_line_lengths_and_statistics_PARKS.qgz
+    └── outputs/
     ├── making_a_map_PARKS.png
     ├── working_with_projections_PARKS.png
     ├── working_with_attributes_PARKS.png
